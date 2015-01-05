@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:010027_0000_0F7BCD19E3507B48"/>
-            <pb facs="tcp:010027_0001_0F7BCD1A990476F8"/>
+            <pb facs="unknown:010027_0000_0F7BCD19E3507B48"/>
+            <pb facs="unknown:010027_0001_0F7BCD1A990476F8"/>
             <p>A COURSE OF EXPERIMENTS, In that CURIOUS and ENTERTAINING Branch of NATURAL PHILOSOPHY.</p>
             <p>CALLL'D ELECTRICITY;</p>
             <p>Accompanied with LECTURES on the NATURE and PROPERTIES of the ELECTRIC FIRE.</p>
@@ -126,7 +126,7 @@
          </div>
          <div type="to_the_reader">
             <p>
-               <pb facs="tcp:010027_0002_0F7BCD1B57A41020"/>
+               <pb facs="unknown:010027_0002_0F7BCD1B57A41020"/>
                <hi>As the Knowledge of Na<g ref="char:EOLhyphen"/>ture tends to enlarge the human Mind, and give us more noble and exalt<g ref="char:EOLhyphen"/>ed Ideas of the</hi> GOD OF NATURE; <hi>it is pre<g ref="char:EOLhyphen"/>sumed this</hi> Course <hi>will meet with Encouragement, as a rational and agree<g ref="char:EOLhyphen"/>able Entertainment.</hi>
             </p>
             <epigraph>
@@ -150,7 +150,7 @@
             <p n="7">VII. That it has, when in a State of Rest, <hi>no sensible Heat.</hi>
             </p>
             <p n="8">
-               <pb n="4" facs="tcp:010027_0003_0F7BCD1C1BAF3C08"/>
+               <pb n="4" facs="unknown:010027_0003_0F7BCD1C1BAF3C08"/>
 VIII. That, by its violent Motion in passing through other Bodies, it produces a very <hi>intense</hi> Degree of <hi>Heat. Both these Propositions will be proved by a very accurate Thermometer, of a new Construction.</hi>
             </p>
             <p n="9">IX. That it is not the same with common or <hi>culinary</hi> Fire.</p>
@@ -161,7 +161,7 @@ VIII. That, by its violent Motion in passing through other Bodies, it produces a
             </p>
             <p n="14">XIV. That the electric Fire is a simple Homo<g ref="char:EOLhyphen"/>gine Body, and not of two distinct Kinds, as some have imagined.</p>
             <p n="15">
-               <pb n="5" facs="tcp:010027_0003_0F7BCD1C1BAF3C08"/>
+               <pb n="5" facs="unknown:010027_0003_0F7BCD1C1BAF3C08"/>
 XV. That Bodies, having only their na<gap reason="illegible: indecipherable" extent="3 letters">
                   <desc>•••</desc>
                </gap> Quantity, neither attract nor repel each o<gap reason="illegible: indecipherable" extent="4 letters">
@@ -178,7 +178,7 @@ XV. That Bodies, having only their na<gap reason="illegible: indecipherable" ext
             <p n="21">XXI. An artificial Spider, animated by the electric Fire, so as to act like a live one.</p>
             <p n="22">XXII. A new Property discovered in electrised Points, by Means of which will be exhibited a Sort of electrical Horse-Race.</p>
             <p n="23">
-               <pb n="6" facs="tcp:010027_0004_0F7BCD1D9620FE48"/>
+               <pb n="6" facs="unknown:010027_0004_0F7BCD1D9620FE48"/>
 XXIII. A Shower of electrised Sand, whereby one of the Phaenomena of Thunder-Storms is explained.</p>
             <p n="24">XXIV. Electrised Money, which scarce any one will take when offer'd.</p>
             <p n="25">XXV. The Salute repulsed, or Fire darting from a Lady's Lips or Cheek, so that she may defy any Gentleman to salute her.</p>
@@ -190,7 +190,7 @@ XXIII. A Shower of electrised Sand, whereby one of the Phaenomena of Thunder-Sto
             <head>LECTURE II.</head>
             <p n="1">I. A Description and Explanation of the fa<g ref="char:EOLhyphen"/>mous <hi>Leyden Experiment</hi> or <hi>electrised Phial,</hi> which is the Foundation of most of the Improvements, which have since been made in Electricity.</p>
             <p n="2">
-               <pb n="7" facs="tcp:010027_0004_0F7BCD1D9620FE48"/>
+               <pb n="7" facs="unknown:010027_0004_0F7BCD1D9620FE48"/>
 II. An <hi>empty</hi> Bottle performing the <hi>Leyden Ex<g ref="char:EOLhyphen"/>periment,</hi> without having any non-electric Matter communicating with its inner Sur<g ref="char:EOLhyphen"/>face.</p>
             <p n="3">III. The amazing Force of the electric Fire, shewn by its passing thro' a Number of Bodies at the same Time.</p>
             <p n="4">IV. The electric Fire shewn to be the same with Lightning, from the Simularity of Ap<g ref="char:EOLhyphen"/>pearance.</p>
@@ -202,7 +202,7 @@ II. An <hi>empty</hi> Bottle performing the <hi>Leyden Ex<g ref="char:EOLhyphen"
             <p n="11">XI. An Experiment, shewing why Thunder Clouds float lower in the Air than other Clouds do; and why Eminences are most frequently struck by Lightning.</p>
             <p n="12">XII.—Why we have Thunder more fre<g ref="char:EOLhyphen"/>quent in Summer than in Winter.</p>
             <p n="13">
-               <pb n="8" facs="tcp:010027_0005_0F7BCD1DA1086008"/>
+               <pb n="8" facs="unknown:010027_0005_0F7BCD1DA1086008"/>
 XIII. An Experiment, shewing how to avert the Course of a Flash of Lightning from Buildings, Ships, &amp;c. so as to prevent it from doing them the least Damage.</p>
             <p n="14">XIV.—Shewing what Part of a House or Chamber, not properly secured against Light<g ref="char:EOLhyphen"/>ning, is safe to remain in during a Gust, or in Case the House should be struck by Light<g ref="char:EOLhyphen"/>ning.</p>
             <p n="15">XV.—Shewing a probable Method of in<g ref="char:EOLhyphen"/>tirely preventing the impending Stroke of Lightning.</p>
